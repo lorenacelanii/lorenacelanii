@@ -2,9 +2,13 @@
 - 🖥️ Analista de sistemas e programadora em desenvolvimento
 - 🌱 entusiasta em tecnologia e fazer a diferença
 ##
-![lorenacelanii's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenacelanii&show_icons=true&theme=dracula)
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=lorenacelanii&show_icons=true&theme=dracula" alt="lorenacelanii's GitHub stats" style="height: 200px; width: 400px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenacelanii&layout=compact&theme=dracula" alt="lorenacelanii's Top Languages" style="height: 200px; width: 400px;">
+</div>
+
 ##
-<p>Linguagens mais usadas:</p>
+<p>Minhas linguagens:</p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
