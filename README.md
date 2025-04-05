@@ -1,24 +1,23 @@
-## Olá! me chamo Lorena Celani
-- 🖥️ Analista de sistemas e programadora em desenvolvimento
-- 🌱 entusiasta em tecnologia e fazer a diferença
-##
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; padding: 20px; background-color: #1e1e1e; border-radius: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-  <div style="border-radius: 15px; overflow: hidden; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-    <img src="https://github-readme-stats.vercel.app/api?username=lorenacelanii&show_icons=true&theme=dracula&hide_title=true" alt="lorenacelanii's GitHub stats" style="height: 200px; width: 400px; object-fit: cover; border-radius: 10px;">
-  </div>
-  <div style="border-radius: 15px; overflow: hidden; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenacelanii&layout=compact&theme=dracula&hide_title=true" alt="lorenacelanii's Top Languages" style="height: 200px; width: 400px; object-fit: cover; border-radius: 10px;">
-  </div>
-</div>
+## Olá👋 Me chamo Lorena Celani!
+<p>👨‍💻 Desenvolvedora</p> 
+
+## Sobre mim:
+- Recém-formada em Análise e Desenvolvimento de Sistemas - UNP
+- Apaixonada por tecnologia e sempre em busca de aprender e criar soluções inovadoras
+
 
 ##
-<p>Minhas linguagens:</p>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenacelanii&show_icons=true&theme=radical&hide_rank=true)](https://github.com/lorenacelanii/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenacelanii&show_icons=true&theme=radical&layout=donut)](https://github.com/lorenacelanii/github-readme-stats)
+
+
+## Minhas linguagens:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafa-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
 ##
