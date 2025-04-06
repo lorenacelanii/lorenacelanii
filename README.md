@@ -3,7 +3,7 @@
 
 ## Sobre mim:
 - Recém-formada em Análise e Desenvolvimento de Sistemas - UNP
-- Apaixonada por tecnologia e sempre em busca de aprender e criar soluções inovadoras
+- Apaixonada por tecnologia e sempre em busca de aprender e criar soluções inovadoras.
 
 
 ##
