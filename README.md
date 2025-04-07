@@ -2,7 +2,8 @@
 
 **`Desenvolvedora`**
 
-Me chamo Lorena Celani, tenho 21 anos e sou natural do Rio Grande do Norte. Recentemente concluí minha graduação em Análise e Desenvolvimento de Sistemas pela UNP. Sou apaixonada por tecnologia e estou sempre em busca de aprimorar meus conhecimentos, explorando novas ferramentas, linguagens e desafios.
+Olá! Me chamo Lorena Celani, tenho 21 anos e sou natural do Rio Grande do Norte. Concluí recentemente a graduação em Análise e Desenvolvimento de Sistemas pela UNP. Tenho paixão por tecnologia e estou sempre em busca de aprender mais — seja explorando novas linguagens, ferramentas ou enfrentando desafios práticos. Gosto de transformar ideias em soluções e acredito no poder da tecnologia para melhorar processos e conectar pessoas.
+
 
 
 
@@ -10,11 +11,11 @@ Me chamo Lorena Celani, tenho 21 anos e sou natural do Rio Grande do Norte. Rece
 <div>
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=lorenacelanii&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=lorenacelanii&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
   />
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenacelanii&theme=react&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenacelanii&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </div>
 
@@ -23,11 +24,11 @@ Me chamo Lorena Celani, tenho 21 anos e sou natural do Rio Grande do Norte. Rece
 ## 💻 Minhas Linguagens e Tecnologias
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="CSharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="JavaScript" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS"height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="CSharp" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
 ---
