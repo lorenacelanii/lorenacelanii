@@ -1,10 +1,10 @@
-# 👩🏻‍💻 Lorena Celani
+# Lorena Celani
 
 **`Desenvolvedora`**
 
-Olá! Me chamo Lorena Celani, tenho 21 anos e sou natural do Rio Grande do Norte. Concluí recentemente a graduação em Análise e Desenvolvimento de Sistemas pela UNP. Tenho paixão por tecnologia e estou sempre em busca de aprender mais — seja explorando novas linguagens, ferramentas ou enfrentando desafios práticos. Gosto de transformar ideias em soluções e acredito no poder da tecnologia para melhorar processos e conectar pessoas.
+Olá! Me chamo Lorena Celani, tenho 21 anos e sou natural do Rio Grande do Norte. Concluí recentemente a graduação em Análise e Desenvolvimento de Sistemas pela UNP. Tenho paixão por tecnologia e estou sempre em busca de aprender mais — seja explorando novas linguagens, ferramentas ou enfrentando desafios práticos.
 
-
+Hello! My name is Lorena Celani, I'm 21 years old, and I'm from Rio Grande do Norte, Brazil. I recently graduated with a degree in Systems Analysis and Development from UNP. I'm passionate about technology and always eager to learn more — whether it's exploring new languages, tools, or tackling practical challenges.
 
 
 
