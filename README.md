@@ -2,26 +2,15 @@
 
 **`Desenvolvedora`**
 
-Olá! Me chamo Lorena Celani, tenho 21 anos e sou natural do Rio Grande do Norte. Concluí recentemente a graduação em Análise e Desenvolvimento de Sistemas pela UNP. Tenho paixão por tecnologia e estou sempre em busca de aprender mais — seja explorando novas linguagens, ferramentas ou enfrentando desafios práticos.
-
-Hello! My name is Lorena Celani, I'm 21 years old, and I'm from Rio Grande do Norte, Brazil. I recently graduated with a degree in Systems Analysis and Development from UNP. I'm passionate about technology and always eager to learn more — whether it's exploring new languages, tools, or tackling practical challenges.
+Olá! Sou desenvolvedora focada em React e apaixonada por criar interfaces modernas, responsivas e fáceis de usar. Atualmente estou estudando e evoluindo na área de desenvolvimento web e UX/UI Design, sempre buscando transformar ideias em experiências visuais legais e funcionais.
 
 
-
-<div>
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=lorenacelanii&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
-  />
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenacelanii&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-</div>
+Hi! I'm a developer focused on React and passionate about creating modern, responsive, and user-friendly interfaces. I'm currently learning and growing in web development and UX/UI Design, always looking for ways to turn ideas into clean and functional experiences.
 
 
 
-## 💻 Minhas Linguagens e Tecnologias
+
+##  💻 Languages & Technologies
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -32,6 +21,9 @@ Hello! My name is Lorena Celani, I'm 21 years old, and I'm from Rio Grande do No
 </div>
 
 ---
+
+
+
 
 ## 🌐 Contato
 
