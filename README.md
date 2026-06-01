@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
+## 📊 Github Stats
 
 <p>
   <img src="https://project-az478.vercel.app/api?username=lorenacelanii&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=github" width="48%" />
