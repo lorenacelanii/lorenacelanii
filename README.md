@@ -1,46 +1,44 @@
-# Lorena Celani
+# Lorena Celani 
 
-**`Desenvolvedora`**
+**`Desenvolvedora Fullstack`**
 
-Olá! Sou desenvolvedora focada em React e apaixonada por criar interfaces modernas, responsivas e fáceis de usar. Atualmente estou estudando e evoluindo na área de desenvolvimento web e UX/UI Design, sempre buscando transformar ideias em experiências visuais legais e funcionais.
+<div>
+  <img 
+    src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
+    alt="ilustração de um computador" 
+    width="300px" 
+    align="right"
+    style="margin-top: -20px;"
+  >
 
+ Olá! Sou uma desenvolvedora web formada, gosto de criar aplicações modernas, funcionais e com boa experiência de uso. Tenho foco em desenvolvimento fullstack, integração de sistemas, APIs e UX/UI Design.
+ <br><br><br>
+ Hi! I’m a recent graduate in Systems Analysis and Development, and I enjoy building modern, functional applications with a good user experience. I focus on fullstack development, system integration, APIs, and UX/UI Design.
 
-Hi! I'm a developer focused on React and passionate about creating modern, responsive, and user-friendly interfaces. I'm currently learning and growing in web development and UX/UI Design, always looking for ways to turn ideas into clean and functional experiences.
-
-
-
-
-##  💻 Languages & Technologies
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS"height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="CSharp" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
 </div>
 
----
+<br clear="right"/>
 
+## 💻 Linguagens & Tecnologias
 
+<p align="left">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-SQL-00758F?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
 
+## 💌 Contato
 
-## 🌐 Contato
-
-<div> 
-  <a href="https://instagram.com/lorena.celani" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:lorenacelanii@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/lorenacelanii/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
+<div>
+  <a href="https://instagram.com/lorena.celani"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:lorenacelanii@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/lorenacelanii/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
-
-
-
-
-
-
