@@ -11,7 +11,7 @@
     style="margin-top: -20px;"
   >
 
- Olá! Sou uma desenvolvedora web formada em análise e desenvolvimento de sistemas, gosto de criar aplicações modernas, funcionais e com boa experiência de uso. Tenho foco em desenvolvimento fullstack, integração de sistemas, APIs e UX/UI Design.
+ Olá! Sou uma desenvolvedora web júnior formada em análise e desenvolvimento de sistemas, gosto de criar aplicações modernas, funcionais e com boa experiência de uso. Tenho foco em desenvolvimento fullstack, integração de sistemas, APIs e UX/UI Design.
  <br><br><br>
  Hi! I’m a recent graduate in Systems Analysis and Development, and I enjoy building modern, functional applications with a good user experience. I focus on fullstack development, system integration, APIs, and UX/UI Design.
 
